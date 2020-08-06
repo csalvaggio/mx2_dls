@@ -5,3 +5,7 @@ This repository contains codes, data, and calibration files associated with the 
 
 # DEPENDENCIES #
 
+# COLLABORATORS #
+* Donald Shultz (dxs8691 at rit dot edu)
+* Matthew Casella (mcpci at rit dot edu)
+* Carl Salvaggio (salvaggio at cis dot rit dot edu)
